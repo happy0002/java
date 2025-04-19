@@ -10,3 +10,5 @@ public class input {
         System.out.println(name);
     }
 }
+
+// In Java, to receive input from the user during program execution, we commonly use the Scanner class from the java.util package.
